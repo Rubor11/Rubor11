@@ -1,7 +1,23 @@
-## 👋 About Me<br><br>I’m a sysadmin with a strong practical focus on **backend, automation, and systems**. I mainly work with **SQL Server**, **Linux**, and I’m continuously learning **DevOps tools**, building real solutions for production environments and homelabs.<br><br>
-### 🛠️ Tech Stack<br>- **Backend:** Node.js, Express, REST APIs  <br>- **Databases:** SQL Server, PostgreSQL, MySQL  <br>- **DevOps / Systems:** Docker, Kubernetes, Linux, Windows, Nginx, GitHub Actions  <br>- **Cloud:** Azure (SQL, Storage, App Services)  <br>- **Automation:** Bash, PowerShell, Power Automate
-### 🚀 Current Focus<br>- Time tracking and business management applications  <br>- Automated deployments and safe rollback strategies  <br>- Database architecture and migrations  
-### 🎯 Philosophy<br>> Don’t work fast, don’t work twice.  <br>> If it fails, I want to know why.
+## 👋 About Me
+I’m a sysadmin with a strong practical focus on **backend, automation, and systems**.  
+I mainly work with **SQL Server**, **Linux**, and I’m continuously learning **DevOps tools**, building real solutions for production environments and homelabs.
+
+### 🛠️ Tech Stack
+- **Backend:** Node.js, Express, REST APIs  
+- **Databases:** SQL Server, PostgreSQL, MySQL  
+- **DevOps / Systems:** Docker, Kubernetes, Linux, Windows, Nginx, GitHub Actions  
+- **Cloud:** Azure (SQL, Storage, App Services)  
+- **Automation:** Bash, PowerShell, Power Automate
+
+### 🚀 Current Focus
+- Time tracking and business management applications  
+- Automated deployments and safe rollback strategies  
+- Database architecture and migrations
+
+### 🎯 Philosophy
+> Don’t work fast, don’t work twice.  
+> If it fails, I want to know why.
+
 
 
 ## 🌐 Socials:
